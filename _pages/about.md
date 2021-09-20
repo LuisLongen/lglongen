@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 #### Areas of interest
 <ul>
 <li> Evolution Partial Differential Equations: Wave and Plate equations, with Fractional Differential Operators  </li>
-<li> Navier-Stokes Equations in abstract Spaces </li>
-<li> <\li>
+<li> Navier-Stokes Equations in abstract Spaces: Herz-type Hardy Spaces, BMO-1 </li>
+<li> L^p and Hardy Spaces Theory and applications in Existence and Non-Existence of Solutions for PDEs <\li>
 </ul>
   
   #### Education
@@ -32,7 +32,8 @@ social: true  # includes social icons at the bottom of the page
   <li>2020: Sandwich Collaborative Period at  <a href="https://www.uniba.it/english-version">Università Degli Studi di Bari</a>   
 </ul>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+  #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
