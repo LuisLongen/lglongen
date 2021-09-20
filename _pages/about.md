@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-description: PhD in Mathematics at <a href="https://ppgmtm.posgrad.ufsc.br/">UFSC</a>. Professor at <a href="https://www.udesc.br/cct">UDESC</a>.
+description: PhD in Mathematics at <a href="https://ppgmtm.posgrad.ufsc.br/">UFSC</a>. Teacher at <a href="https://www.udesc.br/international">UDESC</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
     <p> Deparment of Mathematics </p>
-    <p> State University of Santa Catarina </p>
+    <p> Santa Catarina State University </p>
     <p>Joinville, Brazil </p>
 
 news: true  # includes a list of news items
@@ -19,8 +19,17 @@ social: true  # includes social icons at the bottom of the page
 
 #### Areas of interest
 <ul>
-<li> Evolution Partial Differential Equations: Wave equation, Plate equation </li>
-<li>Quantum walks: nonclassical aspects, entanglement production, delocalized states, weak and strong disorder, spreading features.</li>
+<li> Evolution Partial Differential Equations: Wave and Plate equations, with Fractional Differential Operators  </li>
+<li> Navier-Stokes Equations in abstract Spaces </li>
+<li> <\li>
+</ul>
+  
+  #### Education
+<ul>
+<li>2011-2014: Lic. in Mathematics (<a href="https://www.udesc.br/international">UDESC</a>).</li>
+<li>2014-2016: M.Sc. in Mathematics (<a href="https://www.unicamp.br/unicamp/english">UNICAMP</a>).</li>
+<li>2017-2021: Ph.D. in Mathematics (<a href="https://enppgmtm.paginas.ufsc.br/">UFSC</a>).</li>
+  <li>2020: Sandwich Collaborative Period at  <a href="https://www.uniba.it/english-version">Università Degli Studi di Bari</a>   
 </ul>
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
