@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <ul>
 <li> Evolution Partial Differential Equations: Wave and Plate equations, with Fractional Differential Operators  </li>
 <li> Navier-Stokes Equations in abstract Spaces: Herz-type Hardy Spaces, BMO-1 </li>
-<li> L^p and Hardy Spaces Theory and applications in Existence and Non-Existence of Solutions for PDEs <\li>
+<li> L^p and Hardy Spaces Theory and applications in Existence and Non-Existence of Solutions for PDEs </li>
 </ul>
   
   #### Education
