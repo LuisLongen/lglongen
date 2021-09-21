@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 <li>2011-2014: Lic. in Mathematics (<a href="https://www.udesc.br/international">UDESC</a>).</li>
 <li>2014-2016: M.Sc. in Mathematics (<a href="https://www.unicamp.br/unicamp/english">UNICAMP</a>).</li>
 <li>2017-2021: Ph.D. in Mathematics (<a href="https://enppgmtm.paginas.ufsc.br/">UFSC</a>).</li>
-<li>2020: Sandwich Collaborative Period at <a href="https://www.uniba.it/english-version">Università Degli Studi di Bari</a>.<\li>   
+<li>2020: Sandwich Collaborative Period at <a href="https://www.uniba.it/english-version">Università Degli Studi di Bari</a>.</li>   
 </ul>
 
 
