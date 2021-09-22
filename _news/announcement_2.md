@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I will participate as speaker on the XIV ENAMA :)
+title: I will participate as speaker in the XIV ENAMA :)
 date: 2021-11-03 16:11:00-0400
 inline: false
 ---
